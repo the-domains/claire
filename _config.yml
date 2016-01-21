@@ -1,0 +1,28 @@
+name: claire
+favicon: null
+layout_spectrum: 0.7518545358907431
+typography_spectrum: 0.6849879196379334
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8911901568062603
+  lightness: 0.8980916594155133
+  saturation: 0.9839679046999663
+  rhythmicContrast: 0.20653594541363418
+purpose: []
